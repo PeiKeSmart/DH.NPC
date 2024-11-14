@@ -5,7 +5,7 @@
     <Description>IoT驱动，符合IoT标准库的PC驱动，采集CPU、内存、网络等数据，提供语音播报和重启等服务。</Description>
     <Company>湖北登灏科技有限公司</Company>
     <Copyright>©2020-2024 湖北登灏科技有限公司</Copyright>
-    <VersionPrefix>3.91</VersionPrefix>
+    <VersionPrefix>4.00</VersionPrefix>
     <VersionSuffix>$([System.DateTime]::Now.ToString(`yyyy.MMdd`))</VersionSuffix>
     <Version>$(VersionPrefix).$(VersionSuffix)</Version>
     <FileVersion>$(Version)</FileVersion>
